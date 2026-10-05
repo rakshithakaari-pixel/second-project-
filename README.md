@@ -1,2 +1,11 @@
 # second-project-
-optional 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Website</title>
+</head>
+<body>
+    <h1>Hello! 👋</h1>
+    <p>This is my first website.</p>
+</body>
+</html>
